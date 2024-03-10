@@ -200,6 +200,15 @@
    }
  }
 
+ /*--------------play video page ---------*/
+.play-container{
+   padding-left: 2%;
+}
+.row{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wr;
+}
 
 
  
